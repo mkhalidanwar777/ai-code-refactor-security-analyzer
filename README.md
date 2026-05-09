@@ -1,103 +1,104 @@
-# AI Code Refactor & Security Analyzer
+# 🔐 AI Code Refactor & Security Analyzer
 
-An AI-powered platform designed to analyze source code, detect security vulnerabilities, and provide intelligent code refactoring suggestions.
+> AI-powered platform for analyzing source code, detecting vulnerabilities, and generating intelligent code refactoring suggestions.
 
----
-
-## Features
-
-- Upload and analyze projects
-- Detect security vulnerabilities
-- AI-powered code refactoring
-- File tree visualization
-- Backend API with FastAPI
-- Modern React frontend
-- Interactive dashboard
-- Clean and responsive UI
+![Python](https://img.shields.io/badge/Python-Backend-blue?logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-API-green?logo=fastapi)
+![React](https://img.shields.io/badge/React-Frontend-blue?logo=react)
+![AI](https://img.shields.io/badge/AI-Code%20Analysis-orange)
+![Security](https://img.shields.io/badge/Security-Vulnerability%20Detection-red)
 
 ---
 
-## Tech Stack
+## 🚀 Features
 
-### Frontend
-- React
-- Vite
-- JavaScript
-- CSS
+✅ Upload and analyze projects  
+✅ Detect security vulnerabilities  
+✅ AI-powered refactoring suggestions  
+✅ Code quality analysis  
+✅ Project structure scanning  
+✅ FastAPI backend integration  
+✅ Modern React frontend  
+✅ Real-time analysis reports  
+
+---
+
+## 🛠️ Tech Stack
 
 ### Backend
-- FastAPI
-- Python
-- REST API
+- 🐍 Python
+- ⚡ FastAPI
 
-### Other Tools
-- Git
-- GitHub
-- Tailwind CSS
+### Frontend
+- ⚛️ React
+- 🎨 CSS
+- 📜 JavaScript
+
+### AI & Security
+- 🤖 AI-powered analysis
+- 🔐 Vulnerability detection
 
 ---
 
-## Project Structure
+## 📂 Project Structure
 
 ```bash
-backend/        # FastAPI backend
-frontend/       # React frontend
-docs/           # Documentation
-reports/        # Analysis reports
+backend/      # FastAPI backend
+frontend/     # React frontend
+docs/         # Documentation
+reports/      # Analysis reports
 ```
 
 ---
 
-## Installation
+## ⚙️ Installation
 
-### Clone repository
-
-```bash
-git clone https://github.com/mkhalidanwar777/ai-code-refactor-security-analyzer.git
-```
-
-### Backend setup
+### Backend
 
 ```bash
-cd backend
 pip install -r requirements.txt
-python run.py
 ```
 
-### Frontend setup
+### Frontend
 
 ```bash
-cd frontend
 npm install
+```
+
+---
+
+## ▶️ Run the Project
+
+### Start Backend
+
+```bash
+uvicorn main:app --reload
+```
+
+### Start Frontend
+
+```bash
 npm run dev
 ```
 
 ---
 
-## Future Improvements
+## 📌 Future Improvements
 
-- Advanced AI vulnerability scanning
+- Advanced AI vulnerability prediction
 - Multi-language code support
+- Cloud deployment support
 - Real-time collaboration
-- Cloud deployment
-- LLM-powered refactoring assistant
+- AI-generated documentation
 
 ---
 
-## Author
+## 👨‍💻 Author
 
-Muhammad Khalid Anwar  
-AI & Full Stack Developer  
-BSCS Student @ Abdul Wali Khan University Mardan
-
-GitHub:
-https://github.com/mkhalidanwar777
-
-LinkedIn:
-https://www.linkedin.com/in/muhammad-khaild-anwar-4bb355368/
+**Muhammad Khalid Anwar**  
+🎓 BS Computer Science Student  
+🏫 Abdul Wali Khan University Mardan  
 
 ---
 
-## License
-
-This project is licensed under the MIT License.
+⭐ If you like this project, consider giving it a star on GitHub.
