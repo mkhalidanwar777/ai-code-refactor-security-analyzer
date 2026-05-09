@@ -1,0 +1,22 @@
+function App() {
+  return (
+    <div
+      style={{
+        minHeight: "100vh",
+        backgroundColor: "#111827",
+        color: "white",
+        padding: "40px",
+        fontFamily: "Arial, sans-serif",
+      }}
+    >
+      <h1 style={{ fontSize: "32px", marginBottom: "10px" }}>
+        AI Code Refactor + Security Analyzer
+      </h1>
+      <p style={{ fontSize: "18px", color: "#d1d5db" }}>
+        Frontend is running successfully.
+      </p>
+    </div>
+  );
+}
+
+export default App;
